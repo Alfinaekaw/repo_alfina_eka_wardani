@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplikasi Persediaan & Penjualan</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Logo Macan -->
+    <div class="logo-container">
+        <img src="assets/macan-logo.png" alt="Logo Macan">
+    </div>
+
+    <h1>Aplikasi Persediaan & Penjualan</h1>
+
+    <!-- Daftar Barang -->
+    <h2>Daftar Barang</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Nama Barang</th>
+                <th>Harga</th>
+                <th>Stok</th>
+                <th>Aksi</th>
+            </tr>
+        </thead>
+        <tbody id="product-list"></tbody>
+    </table>
+
+    <!-- Keranjang Belanja -->
+    <h2>Keranjang Belanja</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Nama Barang</th>
+                <th>Harga</th>
+                <th>Jumlah</th>
+                <th>Total</th>
+                <th>Aksi</th>
+            </tr>
+        </thead>
+        <tbody id="cart-list"></tbody>
+    </table>
+
+    <h3>Total Belanja: Rp <span id="total-price">0</span></h3>
+    <button id="checkout-btn">Checkout</button>
+
+    <script src="script.js"></script>
+</body>
+</html>

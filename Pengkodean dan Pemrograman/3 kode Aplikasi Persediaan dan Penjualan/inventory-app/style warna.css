@@ -1,0 +1,57 @@
+/* Warna Soft */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fef8f5; /* Peach muda */
+    color: #444; /* Abu gelap */
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #ff7eb3; /* Pink pastel */
+}
+
+table {
+    width: 80%;
+    margin: 10px auto;
+    border-collapse: collapse;
+    background-color: #fddccb; /* Pink lembut */
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+th, td {
+    border: 1px solid #ffafbd; /* Pink salmon */
+    padding: 10px;
+}
+
+th {
+    background-color: #ffafbd; /* Salmon pastel */
+    color: white;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ff7eb3; /* Pink pastel */
+    color: white;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #ffafbd; /* Lebih soft saat hover */
+}
+
+#checkout-btn {
+    background-color: #ff9a8b; /* Merah pastel */
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#checkout-btn:hover {
+    background-color: #ff7eb3;
+}
