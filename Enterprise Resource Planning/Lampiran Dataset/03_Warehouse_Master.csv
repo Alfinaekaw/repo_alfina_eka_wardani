@@ -1,0 +1,4 @@
+Warehouse Name,Parent Warehouse,Is Group
+Gudang Bahan Baku,All Warehouses,0
+Gudang Barang Dalam Proses,All Warehouses,0
+Gudang Barang Jadi,All Warehouses,0

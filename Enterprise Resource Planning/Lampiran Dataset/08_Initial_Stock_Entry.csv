@@ -1,0 +1,5 @@
+Stock Entry Type,Target Warehouse,Item Code,Item Name,Qty,UOM,Basic Rate (IDR)
+Material Receipt,Gudang Bahan Baku,RM-KY-001,Papan Kayu Jati 2m x 1m,50,Meter,150000
+Material Receipt,Gudang Bahan Baku,RM-KJ-002,Kaki Meja Kayu,100,Nos,45000
+Material Receipt,Gudang Bahan Baku,RM-SK-003,Set Sekrup & Baut,30,Set,25000
+Material Receipt,Gudang Bahan Baku,RM-CT-004,Cat Vernis Pelapis Kayu,25,Liter,60000

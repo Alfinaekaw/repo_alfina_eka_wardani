@@ -1,0 +1,6 @@
+Item Code,Item Name,Item Group,Stock UOM,Is Stock Item,Is Purchase Item,Is Sales Item,Standard Rate,Description
+FG-MJ-001,Meja Kayu Minimalis,Barang Jadi,Nos,1,0,1,750000,Meja kayu jati minimalis ukuran 120x60cm
+RM-KY-001,Papan Kayu Jati 2m x 1m,Bahan Baku,Meter,1,1,0,150000,Papan kayu jati olahan grade A
+RM-KJ-002,Kaki Meja Kayu,Bahan Baku,Nos,1,1,0,45000,Kaki meja kayu murni tinggi 75cm
+RM-SK-003,Set Sekrup & Baut,Bahan Baku,Set,1,1,0,25000,Set sekrup stainless anti karat per 100 pcs
+RM-CT-004,Cat Vernis Pelapis Kayu,Bahan Baku,Liter,1,1,0,60000,Vernis pelapis kayu transparan tahan air

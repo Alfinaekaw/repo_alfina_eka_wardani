@@ -1,0 +1,7 @@
+Type,Name,Description,Hour Rate (IDR)
+Workstation,WS-POTONG,Stasiun Pemotongan & Penghalusan Kayu,50000
+Workstation,WS-RAKIT,Stasiun Perakitan Meja,45000
+Workstation,WS-FINISHING,Stasiun Pengecatan & Finishing,40000
+Operation,OP-CUTTING,Pemotongan & Pemformatan Ukuran Kayu,0
+Operation,OP-ASSEMBLY,Perakitan Rangka & Kaki Meja,0
+Operation,OP-FINISHING,Pelapisan Vernis & Pengeringan,0

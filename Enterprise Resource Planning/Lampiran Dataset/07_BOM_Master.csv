@@ -1,0 +1,9 @@
+BOM Header / Section,Item Code,Item Name,Qty,UOM,Workstation,Operation,Operation Time (Mins)
+HEADER,FG-MJ-001,Meja Kayu Minimalis,1,Nos,,,
+ITEM,RM-KY-001,Papan Kayu Jati 2m x 1m,2,Meter,,,
+ITEM,RM-KJ-002,Kaki Meja Kayu,4,Nos,,,
+ITEM,RM-SK-003,Set Sekrup & Baut,1,Set,,,
+ITEM,RM-CT-004,Cat Vernis Pelapis Kayu,1,Liter,,,
+OPERATION,,OP-CUTTING,,,WS-POTONG,OP-CUTTING,30
+OPERATION,,OP-ASSEMBLY,,,WS-RAKIT,OP-ASSEMBLY,45
+OPERATION,,OP-FINISHING,,,WS-FINISHING,OP-FINISHING,60
